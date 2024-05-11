@@ -1,0 +1,10 @@
+fastapi==0.110.3
+mangum==0.17.0
+numpy==1.26.4
+pydantic==2.7.1
+pymorphy2==0.9.1
+pymorphy2-dicts-uk==2.4.1.1.1460299261
+torch==2.2.2
+uvicorn==0.29.0
+setuptools
+
